@@ -10,6 +10,8 @@ SO THAT I can reliably retrieve them for later use
 
 ## Description
 
+In this assignment, I have developed a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
+
 - Given a text editor web application, when I open my application in my editor then I should see a client server folder structure.
 - When I run `npm run start` from the root directory, then I find that my application should start up the backend and serve the client.
 - When I run the text editor application from my terminal, then I find that my JavaScript files have been bundled using webpack.
